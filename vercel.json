@@ -1,9 +1,9 @@
 {
-  "redirects": [
+  "routes": [
     {
-      "source": "/",
-      "destination": "https://raw.githubusercontent.com/snare-ios/snare.scripts/refs/heads/main/Jailbreak%20v1",
-      "permanent": false
+      "src": "/JailbreakV1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/JailbreakV1.lua",
+      "status": 200
     }
   ]
 }
