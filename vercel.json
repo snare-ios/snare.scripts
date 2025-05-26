@@ -4,6 +4,36 @@
       "src": "/JailbreakV1",
       "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/JailbreakV1.lua",
       "status": 200
+    },
+    {
+      "src": "/MvsdV1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/MvsdV1.lua",
+      "status": 200
+    },
+    {
+      "src": "/BabftV1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/BabftV1.lua",
+      "status": 200
+    },
+    {
+      "src": "/BrookhavenV1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/BrookhavenV1.lua",
+      "status": 200
+    },
+    {
+      "src": "/ColorOrDieV1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/ColorOrDieV1.lua",
+      "status": 200
+    },
+    {
+      "src": "/Mm2V1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/Mm2V1.lua",
+      "status": 200
+    },
+    {
+      "src": "/PlsDonateV1",
+      "dest": "https://raw.githubusercontent.com/snare-ios/snare.scripts/main/PlsDonateV1.lua",
+      "status": 200
     }
   ]
 }
